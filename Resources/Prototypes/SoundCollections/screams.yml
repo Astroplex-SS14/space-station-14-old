@@ -30,3 +30,11 @@
     - /Audio/Voice/Cluwne/cluwnelaugh1.ogg
     - /Audio/Voice/Cluwne/cluwnelaugh2.ogg
     - /Audio/Voice/Cluwne/cluwnelaugh3.ogg
+
+- type: soundCollection
+  id: FartsBased
+  files:
+    - /Audio/Misc/Farts/fart1.ogg
+    - /Audio/Misc/Farts/fart2.ogg
+    - /Audio/Misc/Farts/fart3.ogg
+    - /Audio/Misc/Farts/fart4.ogg
