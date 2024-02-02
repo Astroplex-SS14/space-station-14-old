@@ -1,0 +1,29 @@
+- files: ["fart1.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Taken from TG station."
+  source: "https://github.com/tgstation/tgstation"
+
+- files: ["fart2.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Taken from TG station."
+  source: "https://github.com/tgstation/tgstation"
+
+- files: ["fart3.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Taken from TG station."
+  source: "https://github.com/tgstation/tgstation"
+
+- files: ["fart4.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Taken from TG station."
+  source: "https://github.com/tgstation/tgstation"
+
+- files: ["superfart.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Taken from TG station."
+  source: "https://github.com/tgstation/tgstation"
+
+- files: ["clowncar_fart.ogg"]
+  license: "CC-BY-3.0"
+  copyright: "Created by qwertyquerty"
+  source: "https://github.com/tgstation/tgstation"

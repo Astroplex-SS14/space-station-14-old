@@ -67,6 +67,7 @@
     Whistle:
       collection: Whistles
 
+
 - type: emoteSounds
   id: UnisexReptilian
   params:
@@ -285,6 +286,8 @@
         volume: -6
     Salute:
       collection: Salutes
+    JustFart:
+      collection: FartsBased
 
 - type: emoteSounds
   id: DionaBodyEmotes
@@ -295,6 +298,8 @@
       path: /Audio/Voice/Diona/diona_snap.ogg
       params:
         volume: -10
+    JustFart:
+      collection: FartsBased
 
 # mobs
 - type: emoteSounds
@@ -323,7 +328,7 @@
   sound:
     collection: CluwneScreams
     params:
-      variation: 0.125
+      variation: 1
 
 - type: emoteSounds
   id: Bear
@@ -364,5 +369,12 @@
   id: Kangaroo
   sound:
     path: /Audio/Animals/kangaroo_grunt.ogg
+    params:
+      variation: 0.125
+
+- type: emoteSounds
+  id: JustFart
+  sound:
+    collection: FartsBased
     params:
       variation: 0.125

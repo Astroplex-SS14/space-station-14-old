@@ -327,3 +327,38 @@
   chatMessages: ["emote-deathgasp"]
   chatTriggers:
   - deathgasp
+
+- type: emote
+  id: JustFart
+  chatMessages: [пердит.]
+  chatTriggers:
+    - fart
+    - fart!
+    - fart.
+    - farts
+    - farts!
+    - farts.
+    # Corvax-Localization-Start
+    - пукнул
+    - пернул
+    - пук
+    - среньк
+    - перданул
+    - серанул
+    - обосрался
+    - насрал
+    - пустил шептуна
+    - жестко пёрнул
+    - пукнул.
+    - пернул.
+    - пук.
+    - среньк.
+    - перданул.
+    - серанул.
+    - обосрался.
+    - насрал.
+    - пустил шептуна.
+    - жестко пёрнул.
+     # Corvax-Localization-End
+
+
